@@ -3,5 +3,5 @@
 **Obs:**
 
 - Todos os projetos foram feitos por mim
-- semanapy - projetos que fiz durante um "mini curso" de python
+- semanapy - projetos feitos durante um "mini curso" de python
 - ⭐ - Favoritos
