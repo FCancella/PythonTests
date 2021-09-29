@@ -4,4 +4,4 @@
 
 - Todos os projetos foram feitos por mim
 - semanapy - projetos feitos durante um "mini curso" de python
-- ⭐ - Favoritos
+- ⭐ - Projetos favoritos
