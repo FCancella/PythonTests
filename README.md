@@ -1,7 +1,6 @@
 # PythonTests
-## Durante o meu aprendizado fiz diversos "programas" para usar na prática oque ia aprendendo. Aqui estão a maioria desses projetos.
-**Obs:**
+## Basic projects to put into practice functionalities I learned while studying Python language.
+## Projetos basicos para por em pratica funcionalidades que aprendi durante meu estudo da linguagem Python.
+**Obs/Note:**
 
-- Todos os projetos foram feitos por mim
-- semanapy - projetos feitos durante um "mini curso" de python
-- ★ - Projetos favoritos
+- ★ - Projetos favoritos/ Favorite Projects
