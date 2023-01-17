@@ -4,7 +4,7 @@
 **Obs:**
 - ★ - Projetos favoritos/ Favorite Projects
 - "semanapy" - Projetos feitos durante um "mini curso" de python
-- "INF1031" - Projetos feitos durante as aulas de INTRODUÇÃO À COMPUTAÇÃO na PUC-Rio.
+- "INF1031" - Projetos feitos por mim durante as aulas de INTRODUÇÃO À COMPUTAÇÃO na PUC-Rio.
 
 ## EN-US - 
 ### Basic projects to put into practice functionalities I learned while studying Python language.
